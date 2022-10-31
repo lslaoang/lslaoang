@@ -2,7 +2,7 @@
 - 👀 I’m interested in new technologies and science stuffs
 - 🌱 I’m currently learning JavaScipt and front-end development technologies
 - 💞️ I’m looking to collaborate on building simple web-based or mobile-based application.
-- 📫 You can reach me with email provided in my profile. Cheers!
+- 📫 You can reach me with contact details provided in my profile. Cheers!
 
 <!---
 lslaoang/lslaoang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
