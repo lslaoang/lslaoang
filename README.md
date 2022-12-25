@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lauel Laoang, Jr.
 - 👀 I’m interested in API, Microservices, SpringBoot and Java
-- 🌱 I’m currently learning Mobile Development, JavaScipt and front-end development technologies
+- 🌱 I’m currently learning Mobile Development(Android and iOS), JavaScipt and front-end development technologies
 - 💞️ I’m looking to collaborate on building simple web-based or mobile-based application.
 - 📫 You can reach me with contact details provided in my profile. Cheers!
 
