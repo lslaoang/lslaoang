@@ -20,7 +20,7 @@ Most of my production work lives in private repositories or is under NDA. The po
 
 #### Stack
 
-- **Backend:** Java 21, Spring Boot, Spring Security, REST, OpenAPI, SOAP, Kafka, state machines
+- **Backend:** Java 21, Spring Boot, Spring Security, REST, GraphQL, OpenAPI, SOAP, Kafka, state machines
 - **Data:** Oracle, PostgreSQL, MySQL, DynamoDB, Flyway, Hibernate/JPA
 - **Security:** OAuth2, JWT, SAML SSO, Azure AD, RS256/JWKS, Checkmarx, Fortify, SonarQube
 - **Cloud and delivery:** AWS, Azure, Google Cloud, Docker, Kubernetes, GitHub Actions, GitLab, Azure DevOps
