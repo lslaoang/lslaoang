@@ -10,11 +10,10 @@ I build the backend systems banks and businesses run on: Spring Boot services, A
 
 | Repository | What it is |
 |---|---|
+| [sinu-sila](https://github.com/lslaoang/sinu-sila) | **Sino Sila?** A free, open record of Philippine senators and House representatives: their bills, laws, court cases, declared wealth and election results. Every fact links to its public source. [sinu-sila.com](https://sinu-sila.com) |
 | [appsec-agents](https://github.com/lslaoang/appsec-agents) | Exploitability triage for security scanner findings. Works with any SAST, SCA, or CVE source, and backs each verdict with a source-to-sink trace and file:line citations. |
 | [bonfire](https://github.com/lslaoang/bonfire) | A live virtual hangout around a campfire that grows with the crowd. [Try it](https://lslaoang.github.io/bonfire/). |
 | [Intune-WebApp](https://github.com/lslaoang/Intune-WebApp) | Azure AD on-behalf-of token flow with Spring Security and MSAL. |
-| [eb-proxy](https://github.com/lslaoang/eb-proxy) | Proxy gateway in Java. |
-| [api-first-app](https://github.com/lslaoang/api-first-app) | Contract-first service: an OpenAPI spec drives the generated stubs and client. |
 
 Most of my production work lives in private repositories or is under NDA. The portfolio describes it in detail.
 
